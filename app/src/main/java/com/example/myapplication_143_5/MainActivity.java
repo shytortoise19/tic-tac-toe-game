@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             }
             if(y==9)
             {
-                Toast.makeText(this,"Draw..",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this,"Draw.. Restarting",Toast.LENGTH_SHORT).show();
                 restart();
             }
         }
